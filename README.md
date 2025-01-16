@@ -2,7 +2,7 @@
 Overview
 The Customer Churn Prediction application helps businesses identify customers at risk of leaving (churning) by analyzing their behavior and interaction patterns. Built using Streamlit, this web-based tool provides a user-friendly interface for exploring customer data, predicting churn probability, and gaining insights to improve customer retention strategies.
 
-Access the app: Customer Churn Predictor
+Access the app: https://customer-churn-predictor-jlmaoc8candzgnqyfq79ae.streamlit.app/
 
 Features
 Interactive Interface: Upload customer data and get instant predictions.
